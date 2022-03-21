@@ -9,14 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bc-examples/simple-backend.git"
+    "url": "git+https://github.com/JarSaa/simple-express.git"
+    
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bc-examples/simple-backend/issues"
+    "url": "https://github.com/JarSaa/simple-express.git"
   },
-  "homepage": "https://github.com/bc-examples/simple-backend#readme",
+  "homepage": "https://github.com/JarSaa/simple-express.git",
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
