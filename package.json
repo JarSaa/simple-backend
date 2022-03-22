@@ -10,7 +10,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JarSaa/simple-express.git"
-    
   },
   "author": "",
   "license": "ISC",
@@ -19,8 +18,10 @@
   },
   "homepage": "https://github.com/JarSaa/simple-express.git",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
+    "express-basic-auth": "^1.2.1",
     "nodemon": "^2.0.15"
   }
 }
